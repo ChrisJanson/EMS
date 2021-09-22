@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "ThreatModel",
-    "owner": "Chris"
+    "owner": "Chris",
+    "description": "test"
   },
   "detail": {
     "contributors": [],
